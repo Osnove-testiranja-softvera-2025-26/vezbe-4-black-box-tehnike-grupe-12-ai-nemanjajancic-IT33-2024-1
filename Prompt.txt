@@ -1,0 +1,8 @@
+Prompt
+u zadatku:IT firma prodaje opremu i porudzbina pri prodaji iznosi:1.za kupovinu do 1500 iznosi 195,2.za kupovinu od 1500 do 5000 iznosi 295,3.preko 5000 ne naplacuju porudzbinu, dati validne i nevalidne klase ekvivalencije njihove predstavnike i ocekivane izlaze,Svaki test neophodno je evidentirati odgovorima na sledeća pitanja:
+
+Šta se testira?
+
+Šta želimo da dokažemo testom?
+
+Koje vrednosti prosleđujemo formi da bismo to testirali? objasni mi kao profesionalac sto bi objasnio totalnom amateru kroz blackbox metodu.
